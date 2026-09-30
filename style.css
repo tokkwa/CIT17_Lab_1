@@ -122,8 +122,11 @@ input.invalid, select.invalid {
 
 .success-message {
     margin: 10px 15px;
-    color: #1e7e34;
+    color: #63a165;
     font-weight: bold;
+}
+h3 {
+    color: white;
 }
 
 .table-wrap {
